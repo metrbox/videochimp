@@ -1,0 +1,21 @@
+{
+  "segments": [
+    {
+      "imageUrl": "https://picsum.photos/1920/1080?random=1",
+      "script": "Welcome to this demonstration video. Today we'll show you how VideoChimp can generate professional explainer videos automatically."
+    },
+    {
+      "imageUrl": "https://picsum.photos/1920/1080?random=2",
+      "script": "Our system combines AI-generated voiceovers with your images to create engaging video content."
+    },
+    {
+      "imageUrl": "https://picsum.photos/1920/1080?random=3",
+      "script": "You can choose from multiple TTS providers including OpenAI, OpenRouter, and Kokoro API for the best results."
+    },
+    {
+      "imageUrl": "https://picsum.photos/1920/1080?random=4",
+      "script": "Thank you for watching this demonstration. Visit our documentation to learn more about the API."
+    }
+  ],
+  "ttsProvider": "openai"
+}
